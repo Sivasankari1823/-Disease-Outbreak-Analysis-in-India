@@ -59,6 +59,11 @@ The dataset includes **8985 records spanning multiple years**, covering:
 ### 1️⃣ **Temporal Trends**  
 
 - 🌧️ **Dominant Seasonal Pattern**: Most cases occur during **Monsoon season (July-August)**. Pre-Monsoon (April-May) temperature peaks precede Monsoon rainfall peaks, driving outbreaks.
+  ## 📊 Visualizations
+
+### 1️⃣ Seasonal Trend
+]<img width="721" height="470" alt="download" src="https://github.com/user-attachments/assets/feb1e374-eb37-4fd1-bdfe-89fafb58a68a" />
+
 - ⚖️ **Case Distribution Skew**: Daily/record-level cases are heavily right-skewed, requiring **logarithmic transformation** for modeling.  
 - 📉 **Inter-Annual Volatility**: Significant yearly fluctuations, peaking around 2015. Sporadic major outbreaks persist post-2015.  
 - 🦠 **Top Disease Drivers**: Acute Diarrhoeal Disease, Dengue, Cholera, and Malaria  
