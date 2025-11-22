@@ -1,3 +1,52 @@
+# 🌡️ **Disease Case Analysis: Temporal, Geographic, and Environmental Trends**
+
+---
+
+## 📄 **Overview**  
+This project performs a comprehensive **Exploratory Data Analysis (EDA)** on historical disease case data across India. The analysis investigates **temporal trends, geographic hotspots, seasonal patterns, and environmental correlations**, providing actionable insights for public health interventions. The study also implements **data preprocessing, log transformation, and outbreak detection** to prepare the dataset for downstream modeling and analysis.
+
+---
+
+## 🗂️ **Dataset Description**  
+The dataset includes **8985 records spanning multiple years**, covering:
+
+- 🏛️ **state_ut**: State or Union Territory  
+- 🌆 **district**: District-level data  
+- 📅 **week_of_outbreak**: Week of reported cases  
+- 🦠 **Cases and Deaths**: Daily/weekly counts  
+- 🌡️ **Environmental variables**: Temperature, Precipitation, Leaf Area Index (LAI)  
+
+> The dataset is highly **skewed**, with most records showing low case counts and a few extreme outliers.
+
+---
+
+## 🎯 **Objectives**  
+
+1. 📈 Analyse temporal trends of disease cases to detect seasonal patterns  
+2. 🗺️ Identify geographic hotspots with high disease burden  
+3. 🌦️ Study the relationship between environmental factors and disease cases  
+4. 🚨 Detect outbreak events using anomaly detection methods  
+5. 💡 Generate actionable insights for public health planning  
+
+---
+
+## 🛠️ **Methodology**  
+
+- 🧹 **Data cleaning, missing value handling, and type conversion**  
+- 📊 **Log transformation** to normalize skewed Cases distribution  
+- 🕒 **Temporal aggregation** by month, season, and year  
+- 🌍 **Geographic aggregation and heatmap visualization**  
+- 📉 **Correlation and scatter plot analysis** of environmental variables  
+- 🚨 **Outbreak detection** using anomaly labeling and visual verification  
+
+---
+
+## 📊 **Visualizations**  
+
+- ⏳ **Time Series Plots**: Total cases per year, seasonal patterns  
+- 🔥 **Heatmaps**: Cases by Month and Year, top 20 states/districts  
+- 📦 **Box Plots**: Seasonal temperature, precipitation, LAI distributions  
+- 🗺️ **Geo Scatter Plots**: District-level case concentration  
 - 🚨 **Outbreak Detection Scatter Plots**: Normal vs. Outbreak cases with extreme events highlighted  
 
 ---
