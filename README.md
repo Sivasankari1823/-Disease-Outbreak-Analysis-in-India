@@ -5,6 +5,7 @@
 ## 📄 **Overview**  
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** on historical disease case data across India. The analysis investigates **temporal trends, geographic hotspots, seasonal patterns, and environmental correlations**, providing actionable insights for public health interventions. The study also implements **data preprocessing, log transformation, and outbreak detection** to prepare the dataset for downstream modeling and analysis.
 
+
 ---
 
 ## 🗂️ **Dataset Description**  
@@ -57,7 +58,9 @@ The dataset includes **8985 records spanning multiple years**, covering:
 
 ### 1️⃣ **Temporal Trends**  
 
-- 🌧️ **Dominant Seasonal Pattern**: Most cases occur during **Monsoon season (July-August)**. Pre-Monsoon (April-May) temperature peaks precede Monsoon rainfall peaks, driving outbreaks.  
+- 🌧️ **Dominant Seasonal Pattern**: Most cases occur during **Monsoon season (July-August)**. Pre-Monsoon (April-May) temperature peaks precede Monsoon rainfall peaks, driving outbreaks.
+
+  ![Seasonal Trend]<img width="721" height="470" alt="download" src="https://github.com/user-attachments/assets/5e48add2-7ad7-4987-821f-e67a4c68d33e" />
 - ⚖️ **Case Distribution Skew**: Daily/record-level cases are heavily right-skewed, requiring **logarithmic transformation** for modeling.  
 - 📉 **Inter-Annual Volatility**: Significant yearly fluctuations, peaking around 2015. Sporadic major outbreaks persist post-2015.  
 - 🦠 **Top Disease Drivers**: Acute Diarrhoeal Disease, Dengue, Cholera, and Malaria  
