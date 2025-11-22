@@ -81,7 +81,7 @@ The dataset includes **8985 records spanning multiple years**, covering:
 
 | Variable Pair           | Correlation |
 |-------------------------|------------|
-| Cases vs Deaths         | 0.22       |
+| Cases vs Deaths         |  0.22       |
 | Temperature vs Precip   | -0.35      |
 | Temperature vs LAI      | -0.33      |
 | Precipitation vs Longitude | 0.20    |
