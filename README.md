@@ -46,7 +46,7 @@ The dataset includes **8985 records spanning multiple years**, covering:
 
 ## 📊 **Visualizations**  
 
-- ⏳ **Time Series Plots**: Total cases per year, seasonal patterns  
+- ⏳ **Time Series Plots**: Total cases per year, seasonal patterns
 - 🔥 **Heatmaps**: Cases by Month and Year, top 20 states/districts  
 - 📦 **Box Plots**: Seasonal temperature, precipitation, LAI distributions  
 - 🗺️ **Geo Scatter Plots**: District-level case concentration  
@@ -59,15 +59,10 @@ The dataset includes **8985 records spanning multiple years**, covering:
 ### 1️⃣ **Temporal Trends**  
 
 - 🌧️ **Dominant Seasonal Pattern**: Most cases occur during **Monsoon season (July-August)**. Pre-Monsoon (April-May) temperature peaks precede Monsoon rainfall peaks, driving outbreaks.
-  ## 📊 Visualizations
-
-### 1️⃣ Seasonal Trend
-]<img width="721" height="470" alt="download" src="https://github.com/user-attachments/assets/feb1e374-eb37-4fd1-bdfe-89fafb58a68a" />
-
 - ⚖️ **Case Distribution Skew**: Daily/record-level cases are heavily right-skewed, requiring **logarithmic transformation** for modeling.  
-- 📉 **Inter-Annual Volatility**: Significant yearly fluctuations, peaking around 2015. Sporadic major outbreaks persist post-2015.  
+- 📉 **Inter-Annual Volatility**: Significant yearly fluctuations, peaking around 2015. Sporadic major outbreaks persist post-2015.
 - 🦠 **Top Disease Drivers**: Acute Diarrhoeal Disease, Dengue, Cholera, and Malaria  
-- 🔥 **Heatmap Confirmation**: High-intensity clusters in July 2015-2016, coinciding with peak Monsoon rainfall  
+- 🔥 **Heatmap Confirmation**: High-intensity clusters in July 2015-2016, coinciding with peak Monsoon rainfall
 
 ---
 
@@ -78,7 +73,6 @@ The dataset includes **8985 records spanning multiple years**, covering:
 - 🗺️ **Geospatial Distribution**: Cases concentrated in northern and eastern regions, confirmed via geo-scatter plots  
 
 ---
-
 ### 3️⃣ **Environmental Correlation Analysis**  
 
 - 🌡️ **Temperature**: Peaks in April-May, drops during Monsoon  
