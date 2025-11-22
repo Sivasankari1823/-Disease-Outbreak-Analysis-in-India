@@ -110,7 +110,7 @@ The dataset includes **8985 records spanning multiple years**, covering:
 - 🏙️ **High-Burden Locations**: New Delhi reports highest cases  
 - ⚖️ **Cases vs. Deaths**: Weak positive correlation (0.22)  
 - 🗺️ **Geographic Concentration**: West Bengal, Delhi, Uttar Pradesh, Maharashtra, Karnataka  
-- 🚨 **Outbreak Detection**: Extreme years include 2009 and 2018  
+- 🚨 **Outbreak Detection**: Extreme years include 2009 and 2019  
 
 ---
 
