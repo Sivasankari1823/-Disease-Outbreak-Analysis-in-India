@@ -18,7 +18,9 @@ The dataset includes **8985 records spanning multiple years**, covering:
 - 🌡️ **Environmental variables**: Temperature, Precipitation, Leaf Area Index (LAI)  
 
 > The dataset is highly **skewed**, with most records showing low case counts and a few extreme outliers.
+## Dataset Used
 
+- <a href="https://github.com/Sivasankari1823/-Disease-Outbreak-Analysis-in-India/commit/4eae1df0583ac5f5079755d6704d6ef03d45f8a1"> Dataset</a>
 ---
 
 ## 🎯 **Objectives**  
